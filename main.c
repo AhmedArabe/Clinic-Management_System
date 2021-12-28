@@ -426,24 +426,7 @@ int main()
 	return 0;
 }
 
-/*
-patient Add_New_Patient_Record(char name[],int age,char gender[],int id)
-{
 
-
-    patient arr[iterator];
-    arr[iterator].age=age;
-    arr[iterator].id=id;
-    strcpy(arr[iterator].gender,gender);
-    strcpy(arr[iterator].name,name);
-  //  iterator++;
-  //  p1.age=age;
-  //  strcpy(p1.name,name);
-  //  strcpy(p1.gender,gender);
-   // p1.id=id;
-
-    return arr[iterator];
-}*/
 
 
 
