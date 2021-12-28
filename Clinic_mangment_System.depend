@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1640621038 source:d:\diploma_code\c_workspace\clinic_mangment_system\main.c
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+
